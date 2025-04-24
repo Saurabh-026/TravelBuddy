@@ -46,7 +46,7 @@
     // Clear session variables after using them
     unset($_SESSION['signup_success'], $_SESSION['signup_errors'], $_SESSION['signup_data'], $_SESSION['login_error']);
     ?>
-    <div class="min-h-screen bg-[url('/assets/images/bg_doodle_white2.png')]">
+    <div class="min-h-screen bg-[url('assets/images/bg_doodle_white2.png')]">
         <header class="p-4 md:px-20 md:py-15">
             <div class="px-4 md:px-12 py-3 md:py-5 bg-white rounded-full flex justify-between items-center">
                 <div class="text-xl md:text-2xl font-bold">
